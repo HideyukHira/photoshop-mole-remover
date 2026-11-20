@@ -1,0 +1,19 @@
+# Input / Output data
+input/
+output/
+last_job.txt
+
+# MediaPipe model files (download separately; see README.md)
+models/*.tflite
+models/*.task
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# OS / Misc
+.DS_Store
+Thumbs.db
+そのフォルダを処理
